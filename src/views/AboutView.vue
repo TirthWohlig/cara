@@ -1,5 +1,7 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+   <div>
+    <img width="100%" height="640px" src="../assets/about.jpeg" />
+   </div>
   </div>
 </template>
