@@ -27,7 +27,8 @@
       <i class="fas fa-shopping-bag"></i>
       <i id="bar" class="fas fa-outdent"></i>
     </div>
-  </section>  
+        </section>  
+
     </div>
 </template>
 
