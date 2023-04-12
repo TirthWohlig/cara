@@ -5,16 +5,16 @@
     <div>
       <ul id="navbar">
         <li>
-          <a class="active" href="#">Home</a>
+         <router-link to="/">Home</router-link>
         </li>
         <li>
-          <a href="#">Shop</a>
+      <router-link to="/shop">Shop</router-link>
         </li>
         <li>
-          <a href="#">About</a>
+        <router-link to="/about">About</router-link>
         </li>
         <li>
-          <a href="#">Contact</a>
+          <router-link to="/contact">Contact</router-link>
         </li>
         <li>
           <a class="bag" href="#"><i class="fas fa-shopping-bag"></i></a>
@@ -27,7 +27,8 @@
       <i class="fas fa-shopping-bag"></i>
       <i id="bar" class="fas fa-outdent"></i>
     </div>
-  </section>  
+        </section>  
+
     </div>
 </template>
 
