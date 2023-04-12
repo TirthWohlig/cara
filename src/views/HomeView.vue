@@ -10,26 +10,6 @@
         transition="fade-transition"
       ></v-carousel-item>
     </v-carousel>
-    <v-row id="footer">
-      <v-col md="4"
-        ><img height="50px" src="../assets/logo.png" alt=""
-      /></v-col>
-      <v-col md="4"
-        ><div>
-          <ul style="list-style: none">
-            <li>
-              <router-link to="/shop">Shop</router-link>
-            </li>
-            <li>
-              <router-link to="/about">About</router-link>
-            </li>
-            <li>
-              <router-link to="/contact">Contact</router-link>
-            </li>
-          </ul>
-        </div></v-col
-      >
-      <v-col md="4">
 
     <v-row style="background-color: #eee !important; padding: 3%">
       <v-col cols="12" md="4">
