@@ -1,12 +1,21 @@
 <template>
   <div>
+    <v-carousel cycle height="800">
+      <v-carousel-item
+        v-for="(item, i) in items"
+        :key="i"
+        :src="item.src"
+        reverse-transition="fade-transition"
+        transition="fade-transition"
+      ></v-carousel-item>
+    </v-carousel>
     <v-row id="footer">
       <v-col md="4"
         ><img height="50px" src="../assets/logo.png" alt=""
       /></v-col>
       <v-col md="4"
         ><div>
-          <ul style="list-style: none;">
+          <ul style="list-style: none">
             <li>
               <router-link to="/shop">Shop</router-link>
             </li>
@@ -25,7 +34,7 @@
           width="400"
           height="300"
           style="border: 0"
-          allowfullscreen=""
+          allowfullscreen="true"
           loading="lazy"
           referrerpolicy="no-referrer-when-downgrade"
         ></iframe
@@ -33,9 +42,25 @@
     </v-row>
   </div>
 </template>
-
 <script>
 export default {
-  components: {},
+  data() {
+    return {
+      items: [
+        {
+          src: "https://cdn.vuetifyjs.com/images/carousel/squirrel.jpg",
+        },
+        {
+          src: "https://cdn.vuetifyjs.com/images/carousel/sky.jpg",
+        },
+        {
+          src: "https://cdn.vuetifyjs.com/images/carousel/bird.jpg",
+        },
+        {
+          src: "https://cdn.vuetifyjs.com/images/carousel/planet.jpg",
+        },
+      ],
+    };
+  },
 };
 </script>
