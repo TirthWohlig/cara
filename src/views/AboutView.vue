@@ -1,5 +1,10 @@
 <template>
   <div class="about">
+<main>
+   <div>
+    <img width="100%" height="640px" src="../assets/about.jpeg" />
+    
+   </div>
     <v-row id="footer">
       <v-col md="4"
         ><img height="50px" src="../assets/logo.png" alt=""
@@ -31,5 +36,6 @@
         ></iframe
       ></v-col>
     </v-row>
+</main>
   </div>
 </template>
