@@ -20,69 +20,28 @@
 
         <v-tab-item>
           <v-container>
-            <v-row>
-              <v-col cols="12" md="3">
-                <img
-                  width="100%"
-                  height="auto"
-                  src="https://palettier-retail-private-limited.imgix.net/642eff6c288a035de205ea25.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80"
-                  alt=""
-                />
-              </v-col>
-              <v-col cols="12" md="3">
-                <img
-                  width="100%"
-                  height="auto"
-                  src="../assets/four.png"
-                  alt=""
-                />
-              </v-col>
-              <v-col cols="12" md="3">
-                <img
-                  width="100%"
-                  height="auto"
-                  src="../assets/two.png"
-                  alt=""
-                />
-              </v-col>
-              <v-col cols="12" md="3">
-                <img
-                  width="100%"
-                  height="auto"
-                  src="../assets/two.png"
-                  alt=""
-                />
-              </v-col>
-            </v-row>
-            <v-row>
-              <v-col cols="12" md="3">
-                <img
-                  width="100%"
-                  height="auto"
-                  src="../assets/five.png"
-                  alt=""
-                />
-              </v-col>
-              <v-col cols="12" md="3">
-                <img
-                  width="100%"
-                  height="auto"
-                  src="../assets/four.png"
-                  alt=""
-                />
-              </v-col>
-              <v-col cols="12" md="3">
-                <img
-                  width="100%"
-                  height="auto"
-                  src="../assets/two.png"
-                  alt=""
-                />
+            <v-row >
+              <v-col v-for="womens in women" :key="womens" cols="12" md="3">
+                <div class="container1">
+                  <v-img width="100%" height="auto" :src="womens.image"></v-img>
+                  <div class="centered">{{ womens.text }}</div>
+                </div>
               </v-col>
             </v-row>
           </v-container>
         </v-tab-item>
-        <v-tab-item> 2 </v-tab-item>
+        <v-tab-item> 
+              <v-container>
+            <v-row >
+              <v-col v-for="womens in men" :key="womens" cols="12" md="3">
+                <div class="container1">
+                  <v-img width="100%" height="auto" :src="womens.image"></v-img>
+                  <div class="centered">{{ womens.text }}</div>
+                </div>
+              </v-col>
+            </v-row>
+          </v-container>
+           </v-tab-item>
       </v-tabs>
     </div>
     <br />
@@ -121,9 +80,42 @@
   </div>
 </template>
 <script>
+import axios from "axios";
 export default {
   data() {
-    return {};
+    return {
+      women: "",
+      men:""
+    };
+  },
+  mounted() {
+    axios.get("http://localhost:3000/womens").then((response) => {
+      this.women = response.data;
+      // console.log(this.women);
+    });
+      axios.get("http://localhost:3000/mens").then((response) => {
+      this.men = response.data;
+      // console.log(this.women);
+    });
   },
 };
 </script>
+<style scoped>
+.container1 {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+  font-family: "Gill Sans", sans-serif;
+  font-size: 20px;
+  color: white;
+  width: 100%;
+  background-color: hsla(0, 0%, 100%, 0.25) !important;
+  backdrop-filter: blur(4px) !important;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+</style>

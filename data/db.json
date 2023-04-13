@@ -8,7 +8,7 @@
       "price": "1300",
       "from": "Cara",
       "description": "lorem ipsum dolor sit amet, con",
-      "volume" : "214"
+      "volume": "214"
     },
     {
       "id": "2",
@@ -18,7 +18,7 @@
       "price": "",
       "from": "",
       "description": "",
-      "volume" : ""
+      "volume": ""
     },
     {
       "id": "3",
@@ -28,7 +28,7 @@
       "price": "",
       "from": "",
       "description": "",
-      "volume" : ""
+      "volume": ""
     },
     {
       "id": "4",
@@ -38,7 +38,7 @@
       "price": "",
       "from": "",
       "description": "",
-      "volume" : ""
+      "volume": ""
     },
     {
       "id": "5",
@@ -48,7 +48,7 @@
       "price": "",
       "from": "",
       "description": "",
-      "volume" : ""
+      "volume": ""
     },
     {
       "id": "6",
@@ -58,7 +58,7 @@
       "price": "",
       "from": "",
       "description": "",
-      "volume" : ""
+      "volume": ""
     },
     {
       "id": "7",
@@ -68,7 +68,7 @@
       "price": "",
       "from": "",
       "description": "",
-      "volume" : ""
+      "volume": ""
     },
     {
       "id": "8",
@@ -78,7 +78,7 @@
       "price": "",
       "from": "",
       "description": "",
-      "volume" : ""
+      "volume": ""
     },
     {
       "id": "9",
@@ -88,7 +88,71 @@
       "price": "",
       "from": "",
       "description": "",
-      "volume" : ""
+      "volume": ""
+    }
+  ],
+  "womens": [
+    {
+      "id": "1",
+      "image": "https://palettier-retail-private-limited.imgix.net/642eff6c288a035de205ea25.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
+      "text": "Sari Sets"
+    },
+    {
+      "id": "2",
+      "image": "https://palettier-retail-private-limited.imgix.net/642f010d288a035de205ea2b.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
+      "text": "Tops & Bottoms"
+    },
+    {
+      "id": "3",
+      "image": "https://palettier-retail-private-limited.imgix.net/642f015c288a035de205ea31.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
+      "text": "Kurta Sets"
+    },
+    {
+      "id": "4",
+      "image": "https://palettier-retail-private-limited.imgix.net/642f017c288a035de205ea37.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
+      "text": "Dresses"
+    },
+    {
+      "id": "5",
+      "image": "https://palettier-retail-private-limited.imgix.net/64339791288a035de205ec32.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
+      "text": "Jumpsuit"
+    },
+    {
+      "id": "6",
+      "image": "https://palettier-retail-private-limited.imgix.net/642f019a288a035de205ea3d.jpg?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
+      "text": "Lehenga Sets"
+    },
+    {
+      "id": "7",
+      "image": "https://palettier-retail-private-limited.imgix.net/642f0204288a035de205ea43.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
+      "text": "Jackets"
+    },
+    {
+      "id": "8",
+      "image": "https://lh3.googleusercontent.com/dFuOJG9dE431QU93HTIx140H9Plo0rgZNy9vNY3HbaqZHyXO5YCMuHD4c0FNc1lONMiXP4DV6eJLHsx0xEldp32QskBQ2m7c9F0V_V7iYg",
+      "text": "Accessories"
+    }
+  ],
+  "mens": [
+    {
+      "id": "1",
+      "image": "https://palettier-retail-private-limited.imgix.net/642f060a288a035de205ea51.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
+      "text": "Bandhgalas"
+    },
+    {
+      "id": "2",
+      "image": "https://palettier-retail-private-limited.imgix.net/642f061d288a035de205ea55.jpg?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80  ",
+      "text": "Bandhis"
+    },
+    {
+      "id": "3",
+      "image": "https://palettier-retail-private-limited.imgix.net/642f064a288a035de205ea5d.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80  ",
+      "text": "Kurtas"
+    },
+    {
+      "id": "4",
+      "image": "https://palettier-retail-private-limited.imgix.net/642f06e3288a035de205ea67.jpg?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80  ",
+      "text": "Sherwanis"
     }
   ]
 }
