@@ -23,7 +23,7 @@
                 size="14"
               ></v-rating>
 
-              <div class="grey--text ms-4">4.5 (413)</div>
+              <div class="grey--text mt-3">4.5 (413)</div>
             </v-row>
 
             <div class="my-4 text-subtitle-1">$1  Cara</div>
@@ -52,7 +52,7 @@
                 size="14"
               ></v-rating>
 
-              <div class="grey--text ms-4">4.5 (413)</div>
+              <div class="grey--text mt-3">4.5 (413)</div>
             </v-row>
 
                <div class="my-4 text-subtitle-1">$2  Cara</div>
@@ -81,7 +81,7 @@
                 size="14"
               ></v-rating>
 
-              <div class="grey--text ms-4">4.5 (413)</div>
+              <div class="grey--text mt-3">4.5 (413)</div>
             </v-row>
 
                    <div class="my-4 text-subtitle-1">$3  Cara</div>
@@ -112,7 +112,7 @@
                 size="14"
               ></v-rating>
 
-              <div class="grey--text ms-4">4.5 (413)</div>
+              <div class="grey--text mt-3">4.5 (413)</div>
             </v-row>
 
                <div class="my-4 text-subtitle-1">$4  Cara</div>
@@ -141,7 +141,7 @@
                 size="14"
               ></v-rating>
 
-              <div class="grey--text ms-4">4.5 (413)</div>
+              <div class="grey--text mt-3">4.5 (413)</div>
             </v-row>
 
                    <div class="my-4 text-subtitle-1">$5  Cara</div>
@@ -169,7 +169,7 @@
                 size="14"
               ></v-rating>
 
-              <div class="grey--text ms-4">4.5 (413)</div>
+              <div class="grey--text mt-3">4.5 (413)</div>
             </v-row>
 
                  <div class="my-4 text-subtitle-1">$6  Cara</div>
@@ -200,7 +200,7 @@
                 size="14"
               ></v-rating>
 
-              <div class="grey--text ms-4">4.5 (413)</div>
+              <div class="grey--text mt-3">4.5 (413)</div>
             </v-row>
 
                  <div class="my-4 text-subtitle-1">$7  Cara</div>
@@ -229,7 +229,7 @@
                 size="14"
               ></v-rating>
 
-              <div class="grey--text ms-4">4.5 (413)</div>
+              <div class="grey--text mt-3">4.5 (413)</div>
             </v-row>
        <div class="my-4 text-subtitle-1">$8  Cara</div>
 
@@ -257,7 +257,7 @@
                 size="14"
               ></v-rating>
 
-              <div class="grey--text ms-4">4.5 (413)</div>
+              <div class="grey--text mt-3">4.5 (413)</div>
             </v-row>
 
              <div class="my-4 text-subtitle-1">$9  Cara</div>
