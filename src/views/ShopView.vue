@@ -2,7 +2,7 @@
   <div>
     <div class="container1">
       <img src="../assets/shop.png" height="640px" style="width: 100%" />
-      <div class="centered">Shop</div>
+      <div class="centered">Products</div>
     </div>
     <div class="text-center pt-4">
       <h1>Our Products</h1>
