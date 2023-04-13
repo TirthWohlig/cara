@@ -1,5 +1,8 @@
 <template>
   <div>
+    <div>
+      <img height="640px" style="width:100%;" src="../assets/banner.png"/>
+    </div>
     <v-row style="background-color: #eee !important; padding: 3%">
       <v-col cols="12" md="4">
         <img height="50px" src="../assets/logo.png" />
