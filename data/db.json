@@ -2,10 +2,10 @@
   "products": [
     {
       "id": "1",
-      "image": "https://palettier-retail-private-limited.imgix.net/642eff6c288a035de205ea25.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
-      "title": "tirth",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437c11bde884e6e7758a922.jpg?auto=compress&w=336&h=420&lossless=false&fm=webp&q=80",
+      "title": "Devyani Mehrota",
       "rating": "3.5",
-      "price": "1300",
+      "price": "31000",
       "from": "Cara",
       "description": "lorem ipsum dolor sit amet, con",
       "volume": "214"
@@ -82,6 +82,156 @@
     },
     {
       "id": "9",
+      "image": "",
+      "title": "",
+      "rating": "",
+      "price": "",
+      "from": "",
+      "description": "",
+      "volume": ""
+    },
+    {
+      "id": "10",
+      "image": "",
+      "title": "",
+      "rating": "",
+      "price": "",
+      "from": "",
+      "description": "",
+      "volume": ""
+    },
+    {
+      "id": "11",
+      "image": "",
+      "title": "",
+      "rating": "",
+      "price": "",
+      "from": "",
+      "description": "",
+      "volume": ""
+    },
+    {
+      "id": "12",
+      "image": "",
+      "title": "",
+      "rating": "",
+      "price": "",
+      "from": "",
+      "description": "",
+      "volume": ""
+    },
+    {
+      "id": "13",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437c11bde884e6e7758a922.jpg?auto=compress&w=336&h=420&lossless=false&fm=webp&q=80",
+      "title": "Devyani Mehrota",
+      "rating": "3.5",
+      "price": "31000",
+      "from": "Cara",
+      "description": "lorem ipsum dolor sit amet, con",
+      "volume": "214"
+    },
+    {
+      "id": "14",
+      "image": "",
+      "title": "",
+      "rating": "",
+      "price": "",
+      "from": "",
+      "description": "",
+      "volume": ""
+    },
+    {
+      "id": "15",
+      "image": "",
+      "title": "",
+      "rating": "",
+      "price": "",
+      "from": "",
+      "description": "",
+      "volume": ""
+    },
+    {
+      "id": "16",
+      "image": "",
+      "title": "",
+      "rating": "",
+      "price": "",
+      "from": "",
+      "description": "",
+      "volume": ""
+    },
+    {
+      "id": "17",
+      "image": "",
+      "title": "",
+      "rating": "",
+      "price": "",
+      "from": "",
+      "description": "",
+      "volume": ""
+    },
+    {
+      "id": "18",
+      "image": "",
+      "title": "",
+      "rating": "",
+      "price": "",
+      "from": "",
+      "description": "",
+      "volume": ""
+    },
+    {
+      "id": "19",
+      "image": "",
+      "title": "",
+      "rating": "",
+      "price": "",
+      "from": "",
+      "description": "",
+      "volume": ""
+    },
+    {
+      "id": "20",
+      "image": "",
+      "title": "",
+      "rating": "",
+      "price": "",
+      "from": "",
+      "description": "",
+      "volume": ""
+    },
+    {
+      "id": "21",
+      "image": "",
+      "title": "",
+      "rating": "",
+      "price": "",
+      "from": "",
+      "description": "",
+      "volume": ""
+    },
+    {
+      "id": "22",
+      "image": "",
+      "title": "",
+      "rating": "",
+      "price": "",
+      "from": "",
+      "description": "",
+      "volume": ""
+    },
+    {
+      "id": "23",
+      "image": "",
+      "title": "",
+      "rating": "",
+      "price": "",
+      "from": "",
+      "description": "",
+      "volume": ""
+    },
+    {
+      "id": "24",
       "image": "",
       "title": "",
       "rating": "",
