@@ -1,10 +1,10 @@
 <template>
   <div>
     <div>
-      <v-parallax
-        height="640"
-        src="https://cdn.vuetifyjs.com/images/parallax/material.jpg"
-      ></v-parallax>
+          <div class="container1">
+  <img src="../assets/contact.png"  height="640px" style="width:100%;">
+  <div class="centered">Contact</div>
+</div>
     </div>
     <div style="padding: 2%; text-align: center">
       <h1>
@@ -69,3 +69,20 @@
     </v-row>
   </div>
 </template>
+<style scoped>
+.container1 {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+font-family: "Gill Sans", sans-serif;
+  font-size: 50px;
+  color: white;
+  background-color: black;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+</style>
