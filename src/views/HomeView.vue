@@ -15,8 +15,8 @@
       </div>
       <v-tabs color="deep-purple accent-4" centered>
         <!-- <v-tab>Landscape</v-tab> -->
-        <v-tab>Men</v-tab>
         <v-tab>Women</v-tab>
+        <v-tab>Men</v-tab>
 
         <v-tab-item>
           <v-container>

@@ -3,11 +3,12 @@
     {
       "id": "1",
       "image": "https://palettier-retail-private-limited.imgix.net/642eff6c288a035de205ea25.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
-      "title": "5",
-      "rating": "",
-      "price": "",
-      "from": "",
-      "decription": ""
+      "title": "tirth",
+      "rating": "3.5",
+      "price": "1300",
+      "from": "Cara",
+      "description": "lorem ipsum dolor sit amet, con",
+      "volume" : "214"
     },
     {
       "id": "2",
@@ -16,7 +17,8 @@
       "rating": "",
       "price": "",
       "from": "",
-      "decription": ""
+      "description": "",
+      "volume" : ""
     },
     {
       "id": "3",
@@ -25,7 +27,8 @@
       "rating": "",
       "price": "",
       "from": "",
-      "decription": ""
+      "description": "",
+      "volume" : ""
     },
     {
       "id": "4",
@@ -34,7 +37,8 @@
       "rating": "",
       "price": "",
       "from": "",
-      "decription": ""
+      "description": "",
+      "volume" : ""
     },
     {
       "id": "5",
@@ -43,7 +47,8 @@
       "rating": "",
       "price": "",
       "from": "",
-      "decription": ""
+      "description": "",
+      "volume" : ""
     },
     {
       "id": "6",
@@ -52,7 +57,8 @@
       "rating": "",
       "price": "",
       "from": "",
-      "decription": ""
+      "description": "",
+      "volume" : ""
     },
     {
       "id": "7",
@@ -61,7 +67,8 @@
       "rating": "",
       "price": "",
       "from": "",
-      "decription": ""
+      "description": "",
+      "volume" : ""
     },
     {
       "id": "8",
@@ -70,7 +77,8 @@
       "rating": "",
       "price": "",
       "from": "",
-      "decription": ""
+      "description": "",
+      "volume" : ""
     },
     {
       "id": "9",
@@ -79,7 +87,8 @@
       "rating": "",
       "price": "",
       "from": "",
-      "decription": ""
+      "description": "",
+      "volume" : ""
     }
   ]
 }
