@@ -43,15 +43,15 @@
         <v-column>
           <v-col cols="4" md="12">
             <div>
-              <div>Shop</div>
+              <div><a href="/">Home</a></div>
             </div>
           </v-col>
           <v-col cols="4" md="12">
-            <div>About</div>
+            <div><a href="/shop">Shop</a></div>
           </v-col>
 
           <v-col cols="4" md="12">
-            <div>Contact</div>
+            <div><a href="/about">About</a></div>
           </v-col>
         </v-column>
       </v-col>

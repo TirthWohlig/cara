@@ -1,20 +1,20 @@
 <template>
   <div>
     <section id="header">
-      <a href="#"><img src="../assets/logo.png" class="logo" /></a>
+      <a href="/"><img src="../assets/logo.png" class="logo" /></a>
       <div>
         <ul id="navbar">
           <li>
-            <router-link to="/">Home</router-link>
+            <a href="/">Home</a>
           </li>
           <li>
-            <router-link to="/shop">Shop</router-link>
+            <a href="/shop">Shop</a>
           </li>
           <li>
-            <router-link to="/about">About</router-link>
+            <a href="/about">About</a>
           </li>
           <li>
-            <router-link to="/contact">Contact</router-link>
+            <a href="/contact">Contact</a>
           </li>
           <li>
             <a class="bag" href="#"><i class="fas fa-shopping-bag"></i></a>

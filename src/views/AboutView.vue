@@ -1,9 +1,9 @@
 <template>
   <div class="about">
-   <div>
-    <img width="100%" height="640px" src="../assets/about.png" />
-   </div>
-   <v-row style="background-color: #eee !important; padding: 3%">
+    <div>
+      <img width="100%" height="640px" src="../assets/about.png" />
+    </div>
+    <v-row style="background-color: #eee !important; padding: 3%">
       <v-col cols="12" md="4">
         <img height="50px" src="../assets/logo.png" />
       </v-col>
@@ -11,15 +11,15 @@
         <v-column>
           <v-col cols="4" md="12">
             <div>
-              <div>Shop</div>
+              <div><a href="/ ">Home</a></div>
             </div>
           </v-col>
           <v-col cols="4" md="12">
-            <div>About</div>
+            <div><a href="/shop">Shop</a></div>
           </v-col>
 
           <v-col cols="4" md="12">
-            <div>Contact</div>
+            <div><a href="/contact">Contact</a></div>
           </v-col>
         </v-column>
       </v-col>
@@ -29,7 +29,7 @@
           width="400"
           height="300"
           style="border: 0"
-          allowfullscreen=""
+          allowfullscreen="true"
           loading="lazy"
           referrerpolicy="no-referrer-when-downgrade"
         ></iframe>
