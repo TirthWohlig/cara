@@ -49,7 +49,7 @@
             </div>
           </v-col>
           <v-col cols="4" md="12">
-            <div><a href="/shop">Shop</a></div>
+            <div><a href="/shop">Products</a></div>
           </v-col>
 
           <v-col cols="4" md="12">

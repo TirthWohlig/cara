@@ -5,16 +5,13 @@
       <div>
         <ul id="navbar">
           <li>
-            <a href="/">Home</a>
+            <a href="/men">Men</a>
           </li>
           <li>
-            <a href="/shop">Shop</a>
+            <a href="/women">Women</a>
           </li>
           <li>
-            <a href="/about">About</a>
-          </li>
-          <li>
-            <a href="/contact">Contact</a>
+            <a href="/shop">Produts</a>
           </li>
           <li>
             <a class="bag" href="#"><i class="fas fa-shopping-bag"></i></a>
