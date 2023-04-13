@@ -1,5 +1,6 @@
 <template>
   <div>
+    <Header/>
     <div>
       <img height="640px" style="width: 100%" src="../assets/banner.png" />
     </div>
@@ -80,6 +81,7 @@
   </div>
 </template>
 <script>
+import Header from "../components/Navbar.vue"
 import axios from "axios";
 export default {
   data() {
@@ -97,6 +99,9 @@ export default {
       this.men = response.data;
       // console.log(this.women);
     });
+  },
+  components: {
+    Header,
   },
 };
 </script>

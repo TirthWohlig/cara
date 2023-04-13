@@ -1,5 +1,6 @@
 <template>
   <div>
+    <Header/>
     <div>
       <div class="container1">
         <img src="../assets/contact.png" height="640px" style="width: 100%" />
@@ -90,3 +91,16 @@
   transform: translate(-50%, -50%);
 }
 </style>
+<script>
+import Header from "../components/Navbar.vue";
+
+export default {
+  name: "App",
+
+  components: {
+    Header,
+  },
+
+  data: () => ({}),
+};
+</script>
