@@ -1,7 +1,7 @@
 <template>
   <div class="about">
    <div>
-    <img width="100%" height="640px" src="../assets/about.jpeg" />
+    <img width="100%" height="640px" src="../assets/about.png" />
    </div>
    <v-row style="background-color: #eee !important; padding: 3%">
       <v-col cols="12" md="4">
