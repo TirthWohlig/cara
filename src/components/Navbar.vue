@@ -5,10 +5,10 @@
       <div>
         <ul id="navbar">
           <li>
-            <a href="/men">Men</a>
+            <a href="/mens">Men</a>
           </li>
           <li>
-            <a href="/women">Women</a>
+            <a href="/womens">Women</a>
           </li>
           <li>
             <a href="/shop">Produts</a>

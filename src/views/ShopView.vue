@@ -1,5 +1,6 @@
 <template>
   <div>
+    <Header />
     <div class="container1">
       <img src="../assets/shop.png" height="640px" style="width: 100%" />
       <div class="centered">Products</div>
@@ -23,13 +24,17 @@
                 size="14"
               ></v-rating>
 
-              <div class="grey--text mt-3">{{ items.rating }} ({{ items.volume }})</div>
+              <div class="grey--text mt-3">
+                {{ items.rating }} ({{ items.volume }})
+              </div>
             </v-row>
 
-            <div class="my-4 text-subtitle-1">₹{{ items.price }} {{ items.from }}</div>
+            <div class="my-4 text-subtitle-1">
+              ₹{{ items.price }} {{ items.from }}
+            </div>
 
             <div>
-             {{ items.description }}
+              {{ items.description }}
             </div>
           </v-card-text>
         </v-card>
@@ -56,6 +61,7 @@
 </style>
 
 <script>
+import Header from "../components/Navbar.vue";
 import axios from "axios";
 export default {
   data() {
@@ -68,6 +74,9 @@ export default {
       this.product = response.data;
       console.log(this.product);
     });
+  },
+  components: {
+    Header,
   },
 };
 </script>
