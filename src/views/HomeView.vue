@@ -2,7 +2,8 @@
   <div>
     <Header/>
     <div>
-      <img height="640px" style="width: 100%" src="../assets/banner.png" />
+      <img height="640px" style="width: 100%" class="desktop" src="../assets/banner.png" />
+      <img height="230px" style="width:100%" class="mobile" src="../assets/banner.png" />
     </div>
     <br />
     <div style="display: flex; justify-content: center">
@@ -106,21 +107,14 @@ export default {
 };
 </script>
 <style scoped>
-.container1 {
-  position: relative;
-  text-align: center;
-  color: white;
+@media only screen and (max-width: 767px) {
+  .desktop {
+    display: none;
+  }
 }
-.centered {
-  position: absolute;
-  font-family: "Gill Sans", sans-serif;
-  font-size: 20px;
-  color: white;
-  width: 100%;
-  background-color: hsla(0, 0%, 100%, 0.25) !important;
-  backdrop-filter: blur(4px) !important;
-  top: 90%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+@media only screen and (min-width: 767px) {
+  .mobile {
+    display: none;
+  }
 }
 </style>
