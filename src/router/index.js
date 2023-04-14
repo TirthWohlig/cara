@@ -89,7 +89,7 @@ const routes = [
     component: Kurtas,
   },
   {
-    path: "/lehengaSets",
+    path: "/lehenga_sets",
     name: "lehengaSets",
     component: LehengaSets,
   },
