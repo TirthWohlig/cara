@@ -723,7 +723,11 @@
       "from": "Cara"
     }
   ],
+
   "tops_bottoms": [
+
+  "bandhgalas": [
+
     {
       "id": 1,
       "title": "Devyani Mehrotra",
@@ -885,7 +889,11 @@
       "from": "Cara"
     }
   ],
+
   "kurta_sets": [
+
+  "bandhis": [
+
     {
       "id": 1,
       "title": "Devyani Mehrotra",
@@ -1047,7 +1055,11 @@
       "from": "Cara"
     }
   ],
+
   "dresses": [
+
+  "kurtas": [
+
     {
       "id": 1,
       "title": "Devyani Mehrotra",
@@ -1209,6 +1221,7 @@
       "from": "Cara"
     }
   ],
+
   "jumpsuit": [
     {
       "id": 1,
@@ -1534,6 +1547,9 @@
     }
   ],
   "jackets": [
+
+  "sherwanis": [
+
     {
       "id": 1,
       "title": "Devyani Mehrotra",
