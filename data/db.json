@@ -252,13 +252,13 @@
       "id": "2",
       "image": "https://palettier-retail-private-limited.imgix.net/642f010d288a035de205ea2b.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
       "text": "Tops & Bottoms",
-      "link": "/tops_bottoms"
+      "link": "/tops_Bottoms"
     },
     {
       "id": "3",
       "image": "https://palettier-retail-private-limited.imgix.net/642f015c288a035de205ea31.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
       "text": "Kurta Sets",
-      "link": "/kurta_sets"
+      "link": "/kurtas"
     },
     {
       "id": "4",
@@ -270,7 +270,7 @@
       "id": "5",
       "image": "https://palettier-retail-private-limited.imgix.net/64339791288a035de205ec32.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
       "text": "Jumpsuit",
-      "link": "/jumpsuits"
+      "link": "/jumpsuit"
     },
     {
       "id": "6",
@@ -562,6 +562,978 @@
     }
   ],
   "saris_sets": [
+    {
+      "id": 1,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 2,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 3,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 4,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 5,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 6,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 7,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 8,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 9,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 10,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 11,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 12,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 13,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 14,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 15,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 16,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    }
+  ],
+  "tops_bottoms": [
+    {
+      "id": 1,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 2,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 3,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 4,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 5,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 6,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 7,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 8,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 9,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 10,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 11,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 12,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 13,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 14,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 15,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 16,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    }
+  ],
+  "kurta_sets": [
+    {
+      "id": 1,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 2,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 3,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 4,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 5,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 6,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 7,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 8,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 9,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 10,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 11,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 12,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 13,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 14,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 15,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 16,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    }
+  ],
+  "dresses": [
+    {
+      "id": 1,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 2,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 3,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 4,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 5,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 6,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 7,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 8,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 9,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 10,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 11,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 12,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 13,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 14,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 15,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 16,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    }
+  ],
+  "jumpsuit": [
+    {
+      "id": 1,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 2,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 3,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 4,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 5,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 6,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 7,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 8,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 9,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 10,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 11,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 12,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 13,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 14,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 15,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 16,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    }
+  ],
+  "lehenga_sets": [
+    {
+      "id": 1,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 2,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 3,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 4,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 5,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 6,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 7,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 8,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 9,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 10,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 11,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 12,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 13,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 14,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 15,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 16,
+      "title": "Devyani Mehrotra",
+      "description": "Deep ivory georgette floral embroidered saree set",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437b8a8de884e6e7758a87a.jpg?auto=compress&w=280&h=360&lossless=false&fm=webp&q=80",
+      "price": "35,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    }
+  ],
+  "jackets": [
     {
       "id": 1,
       "title": "Devyani Mehrotra",
