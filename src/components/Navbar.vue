@@ -5,16 +5,16 @@
       <div>
         <ul id="navbar">
           <li>
-            <a href="/mens">Men</a>
+            <router-link to="/mens">Men</router-link>
           </li>
           <li>
-            <a href="/womens">Women</a>
+            <router-link to="/womens">Women</router-link>
           </li>
           <li>
-            <a href="/shop">Produts</a>
+            <router-link to="/shop">Produts</router-link>
           </li>
           <li>
-            <a class="bag" href="#"><i class="fas fa-shopping-bag"></i></a>
+            <router-link class="bag" to="#"><i class="fas fa-shopping-bag"></i></router-link>
           </li>
 
           <a href="#" id="close" @click="close()"
@@ -23,7 +23,7 @@
         </ul>
       </div>
       <div id="mobile">
-        <i class="fas fa-shopping-bag"></i>
+        <!-- <i class="fas fa-shopping-bag"></i> -->
         <i id="bar" @click="bar()" class="fas fa-outdent"></i>
       </div>
     </section>
@@ -119,9 +119,9 @@
     color: #1a1a1a;
     font-size: 24px;
   }
-  .bag {
+  /* .bag {
     display: none;
-  }
+  } */
 }
 
 @media (min-width: 799px) {

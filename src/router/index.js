@@ -8,6 +8,7 @@ import Mens from "../views/Men_Products.vue";
 import Womens from "../views/Women_Products.vue";
 import ErrorPage from "../components/ErrorPage.vue";
 
+
 Vue.use(VueRouter);
 const routes = [
   {
@@ -15,6 +16,7 @@ const routes = [
     name: "home",
     component: HomeView,
   },
+
   {
     path: "/about",
     name: "about",
@@ -51,6 +53,10 @@ const router = new VueRouter({
   mode: "history",
   base: process.env.BASE_URL,
   routes,
+  scrollBehavior() {
+    return { x: 0, y: 0 };
+  },
 });
+ 
 
 export default router;
