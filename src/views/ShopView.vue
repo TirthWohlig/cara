@@ -11,8 +11,8 @@
     <v-row>
       <v-col cols="12" md="4" v-for="items in product" :key="items">
         <v-card class="mx-auto my-12" max-width="374">
-          <v-img height="450px" :src="items.image"></v-img>
-          <v-card-title>{{ items.title }}</v-card-title>
+          <v-img height="600px" :src="items.image"></v-img>
+          <v-card-title>Designed By:  {{ items.title }}</v-card-title>
           <v-card-text>
             <v-row align="center" class="mx-0">
               <v-rating
@@ -40,8 +40,8 @@
         </v-card>
       </v-col>
     </v-row>
-    <br/>
-  <Footer />
+    <br />
+    <Footer />
   </div>
 </template>
 <style scoped>
