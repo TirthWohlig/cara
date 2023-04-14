@@ -23,7 +23,7 @@
               </v-row>
   
               <div class="my-4 text-subtitle-1">
-                ₹{{ items.price }} {{ items.from }}
+                ₹{{ items.price }}  
               </div>
   
               <div>

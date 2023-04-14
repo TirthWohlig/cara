@@ -22,19 +22,19 @@
               </div>
             </v-row>
 
-            <div class="my-4 text-subtitle-1">
-              ₹{{ items.price }} {{ items.from }}
-            </div>
+            <div class="my-4 text-subtitle-1">₹{{ items.price }}</div>
 
             <div>
               {{ items.description }}
             </div>
+            <br />
+            <div>Designed By : {{ items.designer }}</div>
           </v-card-text>
         </v-card>
       </v-col>
     </v-row>
     <br />
-    <Footer/>
+    <Footer />
   </div>
 </template>
 <style scoped>

@@ -12,7 +12,7 @@
       <v-col cols="12" md="4" v-for="items in product" :key="items">
         <v-card class="mx-auto my-12" max-width="400">
           <v-img height="600px" :src="items.image"></v-img>
-          <v-card-title>Designed By:  {{ items.title }}</v-card-title>
+          <v-card-title> {{ items.title }}</v-card-title>
           <v-card-text>
             <v-row align="center" class="mx-0">
               <v-rating
@@ -30,12 +30,14 @@
             </v-row>
 
             <div class="my-4 text-subtitle-1">
-              ₹{{ items.price }} {{ items.from }}
+              ₹{{ items.price }}  
             </div>
 
             <div>
               {{ items.description }}
             </div>
+            <br />
+            <div>Designed By : {{ items.designer }}</div>
           </v-card-text>
         </v-card>
       </v-col>
