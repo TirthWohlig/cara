@@ -1,28 +1,22 @@
 <template>
   <div>
     <Header />
-    <div class="container1">
-      <h1 class="centered">
+    <div style="text-align:center;margin-top:8%">
+      <h1>
         Sorry, looks like we are currently unable to find anything that matches
         your criteria
       </h1>
     </div>
-    <br />
     <Footer class="footer" />
   </div>
 </template>
  
 <style scoped>
-h1 {
-  text-align: center;
-}
-.footer {
-  position: fixed;
-  bottom: 0;
-}
-.container1 {
-  top: 50%;
-}
+  .footer {
+    position: fixed;
+    bottom: 0;
+  }
+
 </style>
   
   <script>
