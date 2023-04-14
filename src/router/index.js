@@ -94,7 +94,7 @@ const routes = [
     component: LehengaSets,
   },
   {
-    path: "/sariSets",
+    path: "/sari_sets",
     name: "sariSets",
     component: SariSets,
   },

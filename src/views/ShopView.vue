@@ -10,7 +10,7 @@
     </div>
     <v-row>
       <v-col cols="12" md="4" v-for="items in product" :key="items">
-        <v-card class="mx-auto my-12" max-width="374">
+        <v-card class="mx-auto my-12" max-width="400">
           <v-img height="600px" :src="items.image"></v-img>
           <v-card-title>Designed By:  {{ items.title }}</v-card-title>
           <v-card-text>
