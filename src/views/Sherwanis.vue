@@ -1,7 +1,7 @@
 <template>
     <div>
       <Header />
-      <v-row>
+      <v-row style="padding:3%">
         <v-col cols="12" md="3" v-for="items in sherwanis" :key="items">
           <v-card class="mx-auto my-12" max-width="400">
             <v-img height="600px" :src="items.image"></v-img>

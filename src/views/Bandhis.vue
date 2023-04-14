@@ -1,11 +1,11 @@
 <template>
     <div>
       <Header />
-      <v-row>
+      <v-row style="padding:4%">
         <v-col cols="12" md="3" v-for="items in bandhis" :key="items">
           <v-card class="mx-auto my-12" max-width="400">
             <v-img height="600px" :src="items.image"></v-img>
-            <v-card-title>Designed By:  {{ items.title }}</v-card-title>
+            <v-card-title>{{ items.title }}</v-card-title>
             <v-card-text>
               <v-row align="center" class="mx-0">
                 <v-rating
