@@ -53,7 +53,9 @@
             <v-row>
               <v-col v-for="mens in men" :key="mens" cols="12" md="3">
                 <div class="container1">
-                  <v-img width="100%" height="auto" :src="mens.image"></v-img>
+                  <router-link :to="mens.link"
+                    ><v-img width="100%" height="auto" :src="mens.image"></v-img
+                  ></router-link>
                   <div class="centered">{{ mens.text }}</div>
                 </div>
               </v-col>

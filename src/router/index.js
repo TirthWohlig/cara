@@ -7,17 +7,17 @@ import ShopView from "../views/ShopView.vue";
 import Mens from "../views/Men_Products.vue";
 import Womens from "../views/Women_Products.vue";
 import ErrorPage from "../components/ErrorPage.vue";
-import Accessories from "../pages/Accessories.vue";
-import Bandhgalas from "../pages/Bandhgalas.vue";
-import Bandhis from "../pages/Bandhis.vue";
-import Dresses from "../pages/Dresses.vue";
-import Jackets from "../pages/Jackets.vue";
-import Jumpsunit from "../pages/Jumpsunit.vue";
-import Kurtas from "../pages/Kurtas.vue";
-import LehengaSets from "../pages/LehengaSets.vue";
-import SariSets from "../pages/SariSets.vue";
-import Sherwanis from "../pages/Sherwanis.vue";
-import Tops_Bottoms from "../pages/Tops&Bottoms.vue";
+import Accessories from "../views/Accessories.vue";
+import Bandhgalas from "../views/Bandhgalas.vue";
+import Bandhis from "../views/Bandhis.vue";
+import Dresses from "../views/Dresses.vue";
+import Jackets from "../views/Jackets.vue";
+import Jumpsuit from "../views/Jumpsuit.vue";
+import Kurtas from "../views/Kurtas.vue";
+import LehengaSets from "../views/LehengaSets.vue";
+import SariSets from "../views/SariSets.vue";
+import Sherwanis from "../views/Sherwanis.vue";
+import Tops_Bottoms from "../views/Tops&Bottoms.vue";
 
 Vue.use(VueRouter);
 const routes = [
@@ -77,9 +77,9 @@ const routes = [
     component: Jackets,
   },
   {
-    path: "/jumpsunit",
-    name: "jumpsunit",
-    component: Jumpsunit,
+    path: "/jumpsuit",
+    name: "jumpsuit",
+    component: Jumpsuit,
   },
   {
     path: "/kurtas",
