@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="footer"> 
     <div style="padding: 3%; background-color: #eee !important">
       <v-row>
         <v-col class="d-flex justify-center" cols="12" md="3">
