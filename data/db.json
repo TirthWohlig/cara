@@ -12,6 +12,16 @@
     },
     {
       "id": "2",
+      "image": "https://palettier-retail-private-limited.imgix.net/642e9b9ade884e6e77586e2a.jpeg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
+      "title": "Devayani Mehrotra",
+      "rating": "3.8",
+      "price": "20000",
+      "from": "Cara",
+      "description": "The sage green kurta comes in chanderi silk base; paired with a contrasting off white cotton silk pants.",
+      "volume": "100"
+    },
+    {
+      "id": "3",
       "image": "https://palettier-retail-private-limited.imgix.net/6437bde1de884e6e7758a8aa.jpg?auto=compress&w=336&h=420&lossless=false&fm=webp&q=80",
       "title": "Devyani Mehrota",
       "rating": "3.5",
@@ -21,7 +31,7 @@
       "volume": "214"
     },
     {
-      "id": "3",
+      "id": "4",
       "image": "https://palettier-retail-private-limited.imgix.net/6437b3e9de884e6e7758a7de.jpg?auto=compress&w=336&h=420&lossless=false&fm=webp&q=80",
       "title": "Devyani Mehrota",
       "rating": "3.5",
@@ -31,17 +41,17 @@
       "volume": "214"
     },
     {
-      "id": "4",
-      "image": "https://palettier-retail-private-limited.imgix.net/6437af21de884e6e7758a76c.jpg?auto=compress&w=336&h=420&lossless=false&fm=webp&q=80",
+      "id": "5",
+      "image": "https://palettier-retail-private-limited.imgix.net/642eb670de884e6e77586e7e.jpeg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
       "title": "Devyani Mehrota",
-      "rating": "3.5",
-      "price": "15500",
+      "rating": "4.5",
+      "price": "41000",
       "from": "Cara",
-      "description": "Blush pink turtleneck dress",
-      "volume": "214"
+      "description": "The plum nehru jacket in raw silk base features embroidery all over. It is paired with matching chanderi silk kurta and black cotton silk pants.",
+      "volume": "200"
     },
     {
-      "id": "5",
+      "id": "6",
       "image": "https://palettier-retail-private-limited.imgix.net/6437a649de884e6e7758a688.jpg?auto=compress&w=336&h=420&lossless=false&fm=webp&q=80",
       "title": "Devyani Mehrota",
       "rating": "3.5",
@@ -51,17 +61,17 @@
       "volume": "214"
     },
     {
-      "id": "6",
-      "image": "https://palettier-retail-private-limited.imgix.net/6437a3d1de884e6e7758a646.jpg?auto=compress&w=336&h=420&lossless=false&fm=webp&q=80",
-      "title": "Devyani Mehrota",
-      "rating": "3.5",
-      "price": "18500",
+      "id": "7",
+      "image": "https://palettier-retail-private-limited.imgix.net/6426bb2bde884e6e77584aad.jpg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
+      "title": "Devayani Mehrotra",
+      "rating": "3.4",
+      "price": "30000",
       "from": "Cara",
-      "description": "Pigeon blue embellished",
-      "volume": "214"
+      "description": "The teal kurta in cotton base comes with cuff sleeves, mandarin collar and features pintuck details. It is paired with matching pants. This set is also available in other colors.",
+      "volume": "200"
     },
     {
-      "id": "7",
+      "id": "8",
       "image": "https://palettier-retail-private-limited.imgix.net/6437a1b7de884e6e7758a628.jpg?auto=compress&w=336&h=420&lossless=false&fm=webp&q=80",
       "title": "Devyani Mehrota",
       "rating": "3.5",
@@ -71,7 +81,17 @@
       "volume": "214"
     },
     {
-      "id": "8",
+      "id": "9",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437a3d1de884e6e7758a646.jpg?auto=compress&w=336&h=420&lossless=false&fm=webp&q=80",
+      "title": "Devyani Mehrota",
+      "rating": "3.5",
+      "price": "18500",
+      "from": "Cara",
+      "description": "Pigeon blue embellished",
+      "volume": "214"
+    },
+    {
+      "id": "10",
       "image": "https://palettier-retail-private-limited.imgix.net/6436b6c4de884e6e77589bf6.jpg?auto=compress&w=336&h=420&lossless=false&fm=webp&q=80",
       "title": "Devyani Mehrota",
       "rating": "3.5",
@@ -81,7 +101,27 @@
       "volume": "214"
     },
     {
-      "id": "9",
+      "id": "11",
+      "image": "https://palettier-retail-private-limited.imgix.net/642eb82ade884e6e77586ea2.jpg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
+      "title": "Devyani Mehrota",
+      "rating": "4.6",
+      "price": "30000",
+      "from": "Cara",
+      "description": "The ink blue sherwani in raw silk base features fine cord work. It is paired with contrasting off-white cotton silk churidar pants.",
+      "volume": "198"
+    },
+    {
+      "id": "12",
+      "image": "https://palettier-retail-private-limited.imgix.net/642e98cade884e6e77586e00.jpeg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
+      "title": "Devyani Mehrota",
+      "rating": "3.5",
+      "price": "31000",
+      "from": "Cara",
+      "description": "The ivory kurta in cotton silk base features pleated detailing. It is paired with matching pants.",
+      "volume": "214"
+    },
+    {
+      "id": "13",
       "image": "https://palettier-retail-private-limited.imgix.net/64256064de884e6e7758410e.jpg?auto=compress&w=336&h=420&lossless=false&fm=webp&q=80",
       "title": "Pooja Rajgarhia Gupta",
       "rating": "3.5",
@@ -91,7 +131,17 @@
       "volume": "214"
     },
     {
-      "id": "10",
+      "id": "14",
+      "image": "https://palettier-retail-private-limited.imgix.net/63bc031e2e6bd4ed39c5708e.jpg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
+      "title": "Devayani Mehrotra",
+      "rating": "2.3",
+      "price": "3000",
+      "from": "Cara",
+      "description": "This blue bundi jacket in pure silk base features hand dyed and hand quilted in floral and geometrical motifs, tailored in edgy silhouettes. It contains only one piece. The product is also available in other colors.",
+      "volume": "300"
+    },
+    {
+      "id": "15",
       "image": "https://palettier-retail-private-limited.imgix.net/641d7721de884e6e77582a97.jpg?auto=compress&w=336&h=420&lossless=false&fm=webp&q=80",
       "title": "Itrh",
       "rating": "3.5",
@@ -101,7 +151,7 @@
       "volume": "214"
     },
     {
-      "id": "11",
+      "id": "16",
       "image": "https://palettier-retail-private-limited.imgix.net/641d622cde884e6e775828a5.jpg?auto=compress&w=336&h=420&lossless=false&fm=webp&q=80",
       "title": "Itrh",
       "rating": "3.5",
@@ -111,7 +161,27 @@
       "volume": "214"
     },
     {
-      "id": "12",
+      "id": "17",
+      "image": "https://palettier-retail-private-limited.imgix.net/642eb24bde884e6e77586e6c.jpeg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
+      "title": "Devayani Mehrotra",
+      "rating": "4.2",
+      "price": "36000",
+      "from": "Cara",
+      "description": "The black nehru jacket in raw silk base features embroidery. It is paired with a matching cotton silk kurta and off white pants.",
+      "volume": "200"
+    },
+    {
+      "id": "18",
+      "image": "https://palettier-retail-private-limited.imgix.net/642eb73ede884e6e77586e90.jpeg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
+      "title": "Devayani Mehrotra",
+      "rating": "4.3",
+      "price": "39000",
+      "from": "Cara",
+      "description": "The grey nehru jacket in raw silk base features embroidery. It is paired with a matching kurta in chanderi silk base and black cotton silk pants.",
+      "volume": "300"
+    },
+    {
+      "id": "19",
       "image": "https://palettier-retail-private-limited.imgix.net/63e1ed072e6bd4ed39c5891e.jpg?auto=compress&w=336&h=420&lossless=false&fm=webp&q=80",
       "title": "Linen Bloom",
       "rating": "3.5",
@@ -121,67 +191,7 @@
       "volume": "214"
     },
     {
-      "id": "13",
-      "image": "https://palettier-retail-private-limited.imgix.net/642e98cade884e6e77586e00.jpeg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
-      "title": "Devyani Mehrota",
-      "rating": "3.5",
-      "price": "31000",
-      "from": "Cara",
-      "description": "The ivory kurta in cotton silk base features pleated detailing. It is paired with matching pants.",
-      "volume": "214"
-    },
-    {
-      "id": "14",
-      "image": "https://palettier-retail-private-limited.imgix.net/642eb670de884e6e77586e7e.jpeg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
-      "title": "Devyani Mehrota",
-      "rating": "4.5",
-      "price": "41000",
-      "from": "Cara",
-      "description": "The plum nehru jacket in raw silk base features embroidery all over. It is paired with matching chanderi silk kurta and black cotton silk pants.",
-      "volume": "200"
-    },
-    {
-      "id": "15",
-      "image": "https://palettier-retail-private-limited.imgix.net/642eb73ede884e6e77586e90.jpeg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
-      "title": "Devayani Mehrotra",
-      "rating": "4.3",
-      "price": "39000",
-      "from": "Cara",
-      "description": "The grey nehru jacket in raw silk base features embroidery. It is paired with a matching kurta in chanderi silk base and black cotton silk pants.",
-      "volume": "300"
-    },
-    {
-      "id": "16",
-      "image": "https://palettier-retail-private-limited.imgix.net/642eb82ade884e6e77586ea2.jpg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
-      "title": "Devyani Mehrota",
-      "rating": "4.6",
-      "price": "30000",
-      "from": "Cara",
-      "description": "The ink blue sherwani in raw silk base features fine cord work. It is paired with contrasting off-white cotton silk churidar pants.",
-      "volume": "198"
-    },
-    {
-      "id": "17",
-      "image": "https://palettier-retail-private-limited.imgix.net/642eb24bde884e6e77586e6c.jpeg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
-      "title": "Devayani Mehrotra",
-      "rating": "4.2",
-      "price": "36000",
-      "from": "Cara",
-      "description": "The black nehru jacket in raw silk base features embroidery. It is paired with a matching cotton silk kurta and off white pants.",
-      "volume": "200"
-    },
-    {
-      "id": "18",
-      "image": "https://palettier-retail-private-limited.imgix.net/642e9b9ade884e6e77586e2a.jpeg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
-      "title": "Devayani Mehrotra",
-      "rating": "3.8",
-      "price": "20000",
-      "from": "Cara",
-      "description": "The sage green kurta comes in chanderi silk base; paired with a contrasting off white cotton silk pants.",
-      "volume": "100"
-    },
-    {
-      "id": "19",
+      "id": "20",
       "image": "https://palettier-retail-private-limited.imgix.net/642e9c85de884e6e77586e42.jpeg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
       "title": "Devayani Mehrotra",
       "rating": "3.0",
@@ -191,7 +201,7 @@
       "volume": "300"
     },
     {
-      "id": "20",
+      "id": "21",
       "image": "https://palettier-retail-private-limited.imgix.net/641c39b8de884e6e775823da.jpg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
       "title": "Devayani Mehrotra",
       "rating": "2.4",
@@ -199,16 +209,6 @@
       "from": "Cara",
       "description": "The carrot coral kurta in chanderi silk base comes with hand embroidered golden acrylic moth motifs and detailed tiny moth acrylic cuts embroidery on the collar and hidden button placket. It is paired with matching churidar pants. This set is also available in other colors.",
       "volume": "400"
-    },
-    {
-      "id": "21",
-      "image": "https://palettier-retail-private-limited.imgix.net/6426bb2bde884e6e77584aad.jpg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
-      "title": "Devayani Mehrotra",
-      "rating": "3.4",
-      "price": "30000",
-      "from": "Cara",
-      "description": "The teal kurta in cotton base comes with cuff sleeves, mandarin collar and features pintuck details. It is paired with matching pants. This set is also available in other colors.",
-      "volume": "200"
     },
     {
       "id": "22",
@@ -222,6 +222,16 @@
     },
     {
       "id": "23",
+      "image": "https://palettier-retail-private-limited.imgix.net/6437af21de884e6e7758a76c.jpg?auto=compress&w=336&h=420&lossless=false&fm=webp&q=80",
+      "title": "Devyani Mehrota",
+      "rating": "3.5",
+      "price": "15500",
+      "from": "Cara",
+      "description": "Blush pink turtleneck dress",
+      "volume": "214"
+    },
+    {
+      "id": "24",
       "image": "https://palettier-retail-private-limited.imgix.net/64181cddde884e6e775816ff.jpg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
       "title": "Devayani Mehrotra",
       "rating": "3.4",
@@ -229,85 +239,87 @@
       "from": "Cara",
       "description": "The brown front open jacket in cotton base comes with hand embroidered white beads and cutdana work. This is a single piece product. It is also available in other colors.",
       "volume": "200"
-    },
-    {
-      "id": "24",
-      "image": "https://palettier-retail-private-limited.imgix.net/63bc031e2e6bd4ed39c5708e.jpg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
-      "title": "Devayani Mehrotra",
-      "rating": "2.3",
-      "price": "3000",
-      "from": "Cara",
-      "description": "This blue bundi jacket in pure silk base features hand dyed and hand quilted in floral and geometrical motifs, tailored in edgy silhouettes. It contains only one piece. The product is also available in other colors.",
-      "volume": "300"
     }
   ],
   "womens": [
     {
       "id": "1",
       "image": "https://palettier-retail-private-limited.imgix.net/642eff6c288a035de205ea25.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
-      "text": "Sari Sets"
+      "text": "Sari Sets",
+      "link": "/sari_sets"
     },
     {
       "id": "2",
       "image": "https://palettier-retail-private-limited.imgix.net/642f010d288a035de205ea2b.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
-      "text": "Tops & Bottoms"
+      "text": "Tops & Bottoms",
+      "link": "/tops_bottoms"
     },
     {
       "id": "3",
       "image": "https://palettier-retail-private-limited.imgix.net/642f015c288a035de205ea31.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
-      "text": "Kurta Sets"
+      "text": "Kurta Sets",
+      "link": "/kurta_sets"
     },
     {
       "id": "4",
       "image": "https://palettier-retail-private-limited.imgix.net/642f017c288a035de205ea37.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
-      "text": "Dresses"
+      "text": "Dresses",
+      "link": "/dresses"
     },
     {
       "id": "5",
       "image": "https://palettier-retail-private-limited.imgix.net/64339791288a035de205ec32.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
-      "text": "Jumpsuit"
+      "text": "Jumpsuit",
+      "link": "/jumpsuits"
     },
     {
       "id": "6",
       "image": "https://palettier-retail-private-limited.imgix.net/642f019a288a035de205ea3d.jpg?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
-      "text": "Lehenga Sets"
+      "text": "Lehenga Sets",
+      "link": "/lehenga_sets"
     },
     {
       "id": "7",
       "image": "https://palettier-retail-private-limited.imgix.net/642f0204288a035de205ea43.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
-      "text": "Jackets"
+      "text": "Jackets",
+      "link": "/jackets"
     },
     {
       "id": "8",
       "image": "https://lh3.googleusercontent.com/dFuOJG9dE431QU93HTIx140H9Plo0rgZNy9vNY3HbaqZHyXO5YCMuHD4c0FNc1lONMiXP4DV6eJLHsx0xEldp32QskBQ2m7c9F0V_V7iYg",
-      "text": "Accessories"
+      "text": "Accessories",
+      "link": "/accessories"
     }
   ],
   "mens": [
     {
       "id": "1",
       "image": "https://palettier-retail-private-limited.imgix.net/642f060a288a035de205ea51.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
-      "text": "Bandhgalas"
+      "text": "Bandhgalas",
+      "link": "/bandhgalas"
     },
     {
       "id": "2",
       "image": "https://palettier-retail-private-limited.imgix.net/642f061d288a035de205ea55.jpg?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80  ",
-      "text": "Bandhis"
+      "text": "Bandhis",
+      "link": "/bandhis"
     },
     {
       "id": "3",
       "image": "https://palettier-retail-private-limited.imgix.net/642f064a288a035de205ea5d.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80  ",
-      "text": "Kurtas"
+      "text": "Kurtas",
+      "link": "/kurtas"
     },
     {
       "id": "4",
       "image": "https://palettier-retail-private-limited.imgix.net/642f06e3288a035de205ea67.jpg?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80  ",
-      "text": "Sherwanis"
+      "text": "Sherwanis",
+      "link": "/sherwanis"
     }
   ],
   "mensProducts": [
     {
-      "id": "13",
+      "id": "1",
       "image": "https://palettier-retail-private-limited.imgix.net/642e98cade884e6e77586e00.jpeg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
       "title": "Devyani Mehrota",
       "rating": "3.5",
@@ -317,7 +329,7 @@
       "volume": "214"
     },
     {
-      "id": "14",
+      "id": "2",
       "image": "https://palettier-retail-private-limited.imgix.net/642eb670de884e6e77586e7e.jpeg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
       "title": "Devyani Mehrota",
       "rating": "4.5",
@@ -327,7 +339,7 @@
       "volume": "200"
     },
     {
-      "id": "15",
+      "id": "3",
       "image": "https://palettier-retail-private-limited.imgix.net/642eb73ede884e6e77586e90.jpeg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
       "title": "Devayani Mehrotra",
       "rating": "4.3",
@@ -337,7 +349,7 @@
       "volume": "300"
     },
     {
-      "id": "16",
+      "id": "4",
       "image": "https://palettier-retail-private-limited.imgix.net/642eb82ade884e6e77586ea2.jpg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
       "title": "Devyani Mehrota",
       "rating": "4.6",
@@ -347,7 +359,7 @@
       "volume": "198"
     },
     {
-      "id": "17",
+      "id": "5",
       "image": "https://palettier-retail-private-limited.imgix.net/642eb24bde884e6e77586e6c.jpeg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
       "title": "Devayani Mehrotra",
       "rating": "4.2",
@@ -357,7 +369,7 @@
       "volume": "200"
     },
     {
-      "id": "18",
+      "id": "6",
       "image": "https://palettier-retail-private-limited.imgix.net/642e9b9ade884e6e77586e2a.jpeg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
       "title": "Devayani Mehrotra",
       "rating": "3.8",
@@ -367,7 +379,7 @@
       "volume": "100"
     },
     {
-      "id": "19",
+      "id": "7",
       "image": "https://palettier-retail-private-limited.imgix.net/642e9c85de884e6e77586e42.jpeg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
       "title": "Devayani Mehrotra",
       "rating": "3.0",
@@ -377,7 +389,7 @@
       "volume": "300"
     },
     {
-      "id": "20",
+      "id": "8",
       "image": "https://palettier-retail-private-limited.imgix.net/641c39b8de884e6e775823da.jpg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
       "title": "Devayani Mehrotra",
       "rating": "2.4",
@@ -387,7 +399,7 @@
       "volume": "400"
     },
     {
-      "id": "21",
+      "id": "9",
       "image": "https://palettier-retail-private-limited.imgix.net/6426bb2bde884e6e77584aad.jpg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
       "title": "Devayani Mehrotra",
       "rating": "3.4",
@@ -397,7 +409,7 @@
       "volume": "200"
     },
     {
-      "id": "22",
+      "id": "10",
       "image": "https://palettier-retail-private-limited.imgix.net/64181e93de884e6e7758176b.jpg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
       "title": "Devayani Mehrotra",
       "rating": "3.5",
@@ -407,7 +419,7 @@
       "volume": "200"
     },
     {
-      "id": "23",
+      "id": "11",
       "image": "https://palettier-retail-private-limited.imgix.net/64181cddde884e6e775816ff.jpg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
       "title": "Devayani Mehrotra",
       "rating": "3.4",
@@ -417,7 +429,7 @@
       "volume": "200"
     },
     {
-      "id": "24",
+      "id": "12",
       "image": "https://palettier-retail-private-limited.imgix.net/63bc031e2e6bd4ed39c5708e.jpg?auto=compress&w=448&h=772&lossless=false&fm=webp&q=80",
       "title": "Devayani Mehrotra",
       "rating": "2.3",
