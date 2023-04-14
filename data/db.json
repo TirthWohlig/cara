@@ -250,42 +250,18 @@
     },
     {
       "id": "2",
-      "image": "https://palettier-retail-private-limited.imgix.net/642f010d288a035de205ea2b.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
-      "text": "Tops & Bottoms",
-      "link": "/tops_Bottoms"
-    },
-    {
-      "id": "3",
-      "image": "https://palettier-retail-private-limited.imgix.net/642f015c288a035de205ea31.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
-      "text": "Kurta Sets",
-      "link": "/kurtas"
-    },
-    {
-      "id": "4",
       "image": "https://palettier-retail-private-limited.imgix.net/642f017c288a035de205ea37.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
       "text": "Dresses",
       "link": "/dresses"
     },
     {
-      "id": "5",
-      "image": "https://palettier-retail-private-limited.imgix.net/64339791288a035de205ec32.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
-      "text": "Jumpsuit",
-      "link": "/jumpsuit"
-    },
-    {
-      "id": "6",
+      "id": "3",
       "image": "https://palettier-retail-private-limited.imgix.net/642f019a288a035de205ea3d.jpg?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
       "text": "Lehenga Sets",
       "link": "/lehenga_sets"
     },
     {
-      "id": "7",
-      "image": "https://palettier-retail-private-limited.imgix.net/642f0204288a035de205ea43.png?auto=compress&w=350&h=350&lossless=false&fm=webp&q=80",
-      "text": "Jackets",
-      "link": "/jackets"
-    },
-    {
-      "id": "8",
+      "id": "4",
       "image": "https://lh3.googleusercontent.com/dFuOJG9dE431QU93HTIx140H9Plo0rgZNy9vNY3HbaqZHyXO5YCMuHD4c0FNc1lONMiXP4DV6eJLHsx0xEldp32QskBQ2m7c9F0V_V7iYg",
       "text": "Accessories",
       "link": "/accessories"

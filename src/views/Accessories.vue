@@ -8,7 +8,7 @@
       </h1>
     </div>
     <br />
-    <Footer />
+    <Footer class="footer" />
   </div>
 </template>
  
@@ -16,7 +16,10 @@
 h1 {
   text-align: center;
 }
-
+.footer {
+  position: fixed;
+  bottom: 0;
+}
 .container1 {
   top: 50%;
 }

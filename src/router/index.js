@@ -11,13 +11,10 @@ import Accessories from "../views/Accessories.vue";
 import Bandhgalas from "../views/Bandhgalas.vue";
 import Bandhis from "../views/Bandhis.vue";
 import Dresses from "../views/Dresses.vue";
-import Jackets from "../views/Jackets.vue";
-import Jumpsuit from "../views/Jumpsuit.vue";
 import Kurtas from "../views/Kurtas.vue";
 import LehengaSets from "../views/LehengaSets.vue";
 import SariSets from "../views/SariSets.vue";
 import Sherwanis from "../views/Sherwanis.vue";
-import Tops_Bottoms from "../views/Tops&Bottoms.vue";
 
 
 Vue.use(VueRouter);
@@ -73,16 +70,7 @@ const routes = [
     name: "dresses",
     component: Dresses,
   },
-  {
-    path: "/jackets",
-    name: "jackets",
-    component: Jackets,
-  },
-  {
-    path: "/jumpsuit",
-    name: "jumpsuit",
-    component: Jumpsuit,
-  },
+  
   {
     path: "/kurtas",
     name: "kurtas",
@@ -102,11 +90,6 @@ const routes = [
     path: "/sherwanis",
     name: "sherwanis",
     component: Sherwanis,
-  },
-  {
-    path: "/tops_Bottoms",
-    name: "tops_Bottoms",
-    component: Tops_Bottoms,
   },
   {
     path: "/:pathMatch(.*)*",
