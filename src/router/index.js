@@ -15,6 +15,7 @@ import Kurtas from "../views/Kurtas.vue";
 import LehengaSets from "../views/LehengaSets.vue";
 import SariSets from "../views/SariSets.vue";
 import Sherwanis from "../views/Sherwanis.vue";
+import cart from "../views/cart.vue"
 
 
 Vue.use(VueRouter);
@@ -23,6 +24,11 @@ const routes = [
     path: "/",
     name: "home",
     component: HomeView,
+  },
+  {
+    path: "/cart",
+    name: "cart",
+    component: cart,
   },
 
   {
@@ -70,7 +76,7 @@ const routes = [
     name: "dresses",
     component: Dresses,
   },
-  
+
   {
     path: "/kurtas",
     name: "kurtas",

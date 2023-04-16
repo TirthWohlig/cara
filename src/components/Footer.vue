@@ -8,11 +8,11 @@
         <v-col cols="12" md="3">
           <div>SUPPORT</div>
           <br />
-          <div>Whatsapp/Call: +918655915825</div>
+          <div> Whatsapp/Call: <a href="tel:+918655915825"> +918655915825</a></div>
           <br />
           <div>Monday to Saturday, 10am -7pm</div>
           <br />
-          <div>customercare@cara.com</div>
+          <div ><a href="mailto:customercare@cara.com">customercare@cara.com</a></div>
         </v-col>
 
         <v-col cols="12" md="3">
