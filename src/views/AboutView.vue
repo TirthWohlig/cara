@@ -13,14 +13,14 @@
             <h2 class="font">Who we are</h2>
             <br />
             <p class="font">
-              Rooted in fashion and technology, Palettier is a home for
+              Rooted in fashion and technology, Cara is a home for
               designers and their creations. Wherever you are across the globe,
               a few clicks lead you to our site, where our partner-designers'
               thoughtfully crafted creations meet your customisations
             </p>
             <br />
             <p class="font">
-              Visualise, customise and shop on Palettier. Our platform brings
+              Visualise, customise and shop on Cara. Our platform brings
               you everything from classic must-haves to festive colours, cuts
               and embroidery within your purview. While you're here, you can
               browse, customise or use us as your go-to style guide. Before you
@@ -57,11 +57,11 @@
               Fashion speaks volumes to me, as it does to millions world-over,
               and as I delved deeper into this beautiful yet dynamic universe, I
               saw a gap. After months of research, development and obsessing
-              over the solution to this problem, my team and I built Palettier.
+              over the solution to this problem, my team and I built Cara.
               A solution and platform that simplifies the essence of
               customisation finding the perfect outfit should be fun, simple and
               hassle-free; customising the perfect one - even more so. That’s
-              where Palettier comes in. Our platform lets you visualise what
+              where Cara comes in. Our platform lets you visualise what
               your ideal outfit looks like, choose from a range of distinct
               brands and enables our brands to cater to your specific needs.
             </p>

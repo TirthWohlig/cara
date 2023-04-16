@@ -31,7 +31,7 @@
               </div>
               <br/>
               <div>
-                {{ items.designer }}
+               Designed By :{{ items.designer }}
               </div>
             </v-card-text>
           </v-card>
