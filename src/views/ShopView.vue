@@ -75,7 +75,7 @@ export default {
     };
   },
   mounted() {
-    axios.get("http://localhost:3000/products").then((response) => {
+    axios.get("https://dcba-103-206-132-218.ngrok-free.app/products").then((response) => {
       this.product = response.data;
       console.log(this.product);
     });
