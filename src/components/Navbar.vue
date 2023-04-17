@@ -13,9 +13,9 @@
           <li>
             <router-link to="/shop">Produts</router-link>
           </li>
-          <li>
+          <!-- <li>
             <router-link class="bag"  to="/cart"><i class="fas fa-shopping-bag"></i></router-link>
-          </li>
+          </li> -->
 
           <a href="#" id="close" @click="close()"
             ><img height="30px" class="close" src="../assets/close.png" alt=""
