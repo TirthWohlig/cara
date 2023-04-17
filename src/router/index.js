@@ -15,7 +15,7 @@ import Kurtas from "../views/Kurtas.vue";
 import LehengaSets from "../views/LehengaSets.vue";
 import SariSets from "../views/SariSets.vue";
 import Sherwanis from "../views/Sherwanis.vue";
-import cart from "../views/cart.vue"
+import cart from "../views/cart.vue";
 
 
 Vue.use(VueRouter);
@@ -112,6 +112,5 @@ const router = new VueRouter({
     return { x: 0, y: 0 };
   },
 });
- 
 
 export default router;
