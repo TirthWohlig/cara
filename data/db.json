@@ -1684,46 +1684,6 @@
       "rating": "4.9",
       "volume": "500",
       "from": "Cara"
-    },
-    {
-      "id": 13,
-      "title": "Powder blue chanderi silk sherwani set",
-      "description": "This set features powder blue chanderi silk sherwani paired with white pajama and a beige dupatta. It is embellished with thread work and embroidered floral motifs.",
-      "image": "",
-      "price": "125,000",
-      "rating": "4.9",
-      "volume": "500",
-      "from": "Cara"
-    },
-    {
-      "id": 14,
-      "title": "Beige embroidered sherwani set with dupatta",
-      "description": "This set features beige chanderi silk sherwani with heavy thread work embroidery all over. Paired with a matching embroidered dupatta and white silk pants.",
-      "image": "",
-      "price": "105,000",
-      "rating": "4.9",
-      "volume": "500",
-      "from": "Cara"
-    },
-    {
-      "id": 15,
-      "title": "Onion pink embroidered sherwani set",
-      "description": "This set features onion pink chanderi silk sherwani with intricate thread work and embroidered floral motifs. Paired with matching dupatta and white silk pants.",
-      "image": "",
-      "price": "110,500",
-      "rating": "4.9",
-      "volume": "500",
-      "from": "Cara"
-    },
-    {
-      "id": 16,
-      "title": "Gold embroidered sherwani set",
-      "description": "This set features gold chanderi silk sherwani with threadwork and embroidered floral motifs. Paired with matching dupatta and white silk pants.",
-      "image": "",
-      "price": "105,000",
-      "rating": "4.9",
-      "volume": "500",
-      "from": "Cara"
     }
   ]
 }
