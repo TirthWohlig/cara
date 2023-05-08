@@ -1575,7 +1575,7 @@
       "from": "Cara"
     }
   ],
-    "girls": [
+  "girls": [
     {
       "id": 1,
       "title": "Graphic Print Crew-Neck T-shirt",
@@ -1684,43 +1684,113 @@
       "rating": "4.9",
       "volume": "500",
       "from": "Cara"
-    },
+    }
+  ],
+  "boys": [
     {
-      "id": 13,
-      "title": "Powder blue chanderi silk sherwani set",
-      "description": "This set features powder blue chanderi silk sherwani paired with white pajama and a beige dupatta. It is embellished with thread work and embroidered floral motifs.",
-      "image": "",
-      "price": "125,000",
+      "id": 1,
+      "title": "EPP Lightly Washed Slim Jeans",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220729/dh52/62e3f67cf997dd03e2089209/-473Wx593H-441142152-blue-MODEL.jpg",
+      "price": "450",
       "rating": "4.9",
       "volume": "500",
       "from": "Cara"
     },
     {
-      "id": 14,
-      "title": "Beige embroidered sherwani set with dupatta",
-      "description": "This set features beige chanderi silk sherwani with heavy thread work embroidery all over. Paired with a matching embroidered dupatta and white silk pants.",
-      "image": "",
-      "price": "105,000",
+      "id": 2,
+      "title": "Graphic Print Crew-Neck T-shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220114/XgG7/61e1900cf997dd6623220626/-473Wx593H-441133664-darkblue-MODEL3.jpg",
+      "price": "90",
       "rating": "4.9",
       "volume": "500",
       "from": "Cara"
     },
     {
-      "id": 15,
-      "title": "Onion pink embroidered sherwani set",
-      "description": "This set features onion pink chanderi silk sherwani with intricate thread work and embroidered floral motifs. Paired with matching dupatta and white silk pants.",
-      "image": "",
-      "price": "110,500",
+      "id": 3,
+      "title": "Graphic Print Crew-Neck T-shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220114/XgG7/61e1900cf997dd6623220626/-473Wx593H-441133664-darkblue-MODEL3.jpg",
+      "price": "90",
       "rating": "4.9",
       "volume": "500",
       "from": "Cara"
     },
     {
-      "id": 16,
-      "title": "Gold embroidered sherwani set",
-      "description": "This set features gold chanderi silk sherwani with threadwork and embroidered floral motifs. Paired with matching dupatta and white silk pants.",
-      "image": "",
-      "price": "105,000",
+      "id": 4,
+      "title": "Graphic Print Crew-Neck T-shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220114/XgG7/61e1900cf997dd6623220626/-473Wx593H-441133664-darkblue-MODEL3.jpg",
+      "price": "90",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 5,
+      "title": "Graphic Print Crew-Neck T-shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220114/XgG7/61e1900cf997dd6623220626/-473Wx593H-441133664-darkblue-MODEL3.jpg",
+      "price": "90",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 6,
+      "title": "Graphic Print Crew-Neck T-shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220114/XgG7/61e1900cf997dd6623220626/-473Wx593H-441133664-darkblue-MODEL3.jpg",
+      "price": "90",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 7,
+      "title": "Graphic Print Crew-Neck T-shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220114/XgG7/61e1900cf997dd6623220626/-473Wx593H-441133664-darkblue-MODEL3.jpg",
+      "price": "90",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 8,
+      "title": "Graphic Print Crew-Neck T-shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220114/XgG7/61e1900cf997dd6623220626/-473Wx593H-441133664-darkblue-MODEL3.jpg",
+      "price": "90",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 9,
+      "title": "Graphic Print Crew-Neck T-shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220114/XgG7/61e1900cf997dd6623220626/-473Wx593H-441133664-darkblue-MODEL3.jpg",
+      "price": "90",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 10,
+      "title": "Graphic Print Crew-Neck T-shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220114/XgG7/61e1900cf997dd6623220626/-473Wx593H-441133664-darkblue-MODEL3.jpg",
+      "price": "90",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 11,
+      "title": "Graphic Print Crew-Neck T-shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220114/XgG7/61e1900cf997dd6623220626/-473Wx593H-441133664-darkblue-MODEL3.jpg",
+      "price": "90",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 12,
+      "title": "Graphic Print Crew-Neck T-shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220114/XgG7/61e1900cf997dd6623220626/-473Wx593H-441133664-darkblue-MODEL3.jpg",
+      "price": "90",
       "rating": "4.9",
       "volume": "500",
       "from": "Cara"

@@ -10,7 +10,7 @@
         <v-container>
           <v-row>
             <v-col cols="12" md="3" v-for="items in sari" :key="items">
-              <v-card class="mx-auto my-12" max-width="400">
+              <v-card class="mx-auto my-12" max-width="200">
                 <v-img height="600px" :src="items.image"></v-img>
                 <v-card-title>{{ items.title }}</v-card-title>
                 <v-card-text>
