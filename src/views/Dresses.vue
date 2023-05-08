@@ -23,8 +23,7 @@
             <div class="my-4 text-subtitle-1">₹{{ dress.price }}</div>
 
             <div>{{ dress.description }}</div>
-            <br />
-            <div>Designed By :  {{ dress.designer }}</div>
+           
           </v-card-text>
         </v-card>
       </v-col>

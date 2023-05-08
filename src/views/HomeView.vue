@@ -64,57 +64,66 @@
           </v-container>
         </v-tab-item>
         <v-tab-item>
+          <br />
           <v-tabs color="deep-purple accent-4" centered>
-        <!-- <v-tab>Landscape</v-tab> -->
-        <v-tab>Girls</v-tab>
-        <v-tab>Boys</v-tab>
-        <v-tab-item>
-          <v-container>
-            <v-row>
-              <v-col v-for="womens in women" :key="womens" cols="12" md="3">
-                <div class="container1">
-                  <router-link :to="womens.link"
-                    ><v-img
-                      width="100%"
-                      height="auto"
-                      :src="womens.image"
-                    ></v-img
-                  ></router-link>
-                  <div class="centered">{{ womens.text }}</div>
-                </div>
-              </v-col>
-            </v-row>
-          </v-container>
-        </v-tab-item>
-        <v-tab-item>
-          <v-container>
-            <v-row>
-              <v-col v-for="mens in men" :key="mens" cols="12" md="3">
-                <div class="container1">
-                  <router-link :to="mens.link"
-                    ><v-img width="100%" height="auto" :src="mens.image"></v-img
-                  ></router-link>
-                  <div class="centered">{{ mens.text }}</div>
-                </div>
-              </v-col>
-            </v-row>
-          </v-container>
-        </v-tab-item>
-        <v-tab-item>
-          <v-container>
-            <v-row>
-              <v-col v-for="mens in men" :key="mens" cols="12" md="3">
-                <div class="container1">
-                  <router-link :to="mens.link"
-                    ><v-img width="100%" height="auto" :src="mens.image"></v-img
-                  ></router-link>
-                  <div class="centered">{{ mens.text }}</div>
-                </div>
-              </v-col>
-            </v-row>
-          </v-container>
-        </v-tab-item>
-      </v-tabs>
+            <!-- <v-tab>Landscape</v-tab> -->
+            <v-tab>Girls</v-tab>
+            <v-tab>Boys</v-tab>
+            <v-tab-item>
+              <v-container>
+                <v-row>
+                  <v-col v-for="womens in women" :key="womens" cols="12" md="3">
+                    <div class="container1">
+                      <router-link :to="womens.link"
+                        ><v-img
+                          width="100%"
+                          height="auto"
+                          :src="womens.image"
+                        ></v-img
+                      ></router-link>
+                      <div class="centered">{{ womens.text }}</div>
+                    </div>
+                  </v-col>
+                </v-row>
+              </v-container>
+            </v-tab-item>
+            <v-tab-item>
+              <v-container>
+                <v-row>
+                  <v-col v-for="mens in men" :key="mens" cols="12" md="3">
+                    <div class="container1">
+                      <router-link :to="mens.link"
+                        ><v-img
+                          width="100%"
+                          height="auto"
+                          :src="mens.image"
+                        ></v-img
+                      ></router-link>
+                      <div class="centered">{{ mens.text }}</div>
+                    </div>
+                  </v-col>
+                </v-row>
+              </v-container>
+            </v-tab-item>
+            <v-tab-item>
+              <v-container>
+                <v-row>
+                  <v-col v-for="mens in men" :key="mens" cols="12" md="3">
+                    <div class="container1">
+                      <router-link :to="mens.link"
+                        ><v-img
+                          width="100%"
+                          height="auto"
+                          :src="mens.image"
+                        ></v-img
+                      ></router-link>
+                      <div class="centered">{{ mens.text }}</div>
+                    </div>
+                  </v-col>
+                </v-row>
+              </v-container>
+            </v-tab-item>
+          </v-tabs>
         </v-tab-item>
       </v-tabs>
     </div>

@@ -34,8 +34,7 @@
             <div>
               {{ items.description }}
             </div>
-            <br />
-            <div>Designed By : {{ items.designer }}</div>
+            
           </v-card-text>
         </v-card>
       </v-col>

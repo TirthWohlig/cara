@@ -15,7 +15,7 @@ import Kurtas from "../views/Kurtas.vue";
 import LehengaSets from "../views/LehengaSets.vue";
 import SariSets from "../views/SariSets.vue";
 import Sherwanis from "../views/Sherwanis.vue";
-import kids from "../views/kids.vue";
+import Kids from "../views/kids.vue";
 
 
 Vue.use(VueRouter);
@@ -28,7 +28,7 @@ const routes = [
   {
     path: "/kids",
     name: "kids",
-    component: kids,
+    component: Kids,
   },
 
   {
