@@ -29,9 +29,7 @@
               </div>
             </v-row>
 
-            <div class="my-4 text-subtitle-1">
-              ₹{{ items.price }}  
-            </div>
+            <div class="my-4 text-subtitle-1">₹{{ items.price }}</div>
 
             <div>
               {{ items.description }}
@@ -75,10 +73,12 @@ export default {
     };
   },
   mounted() {
-    axios.get("http://localhost:3000/products").then((response) => {
-      this.product = response.data;
-      console.log(this.product);
-    });
+    axios
+      .get("http://localhost:3000/products")
+      .then((response) => {
+        this.product = response.data;
+        console.log(this.product);
+      });
   },
   components: {
     Header,

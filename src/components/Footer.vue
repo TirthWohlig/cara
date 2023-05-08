@@ -8,7 +8,7 @@
         <v-col cols="12" md="3">
           <div>SUPPORT</div>
           <br />
-          <div> Whatsapp/Call: <a href="tel:+918655915825"> +918655915825</a></div>
+          <div> Whatsapp/Call: <a href="tel:+919867982398"> +919867982398</a></div>
           <br />
           <div>Monday to Saturday, 10am -7pm</div>
           <br />
