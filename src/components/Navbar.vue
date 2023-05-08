@@ -11,11 +11,12 @@
             <router-link to="/womens">Women</router-link>
           </li>
           <li>
-            <router-link to="/shop">Produts</router-link>
-          </li>
-                 <li>
             <router-link to="/kids">Kids</router-link>
           </li>
+          <li>
+            <router-link to="/shop">Produts</router-link>
+          </li>
+
           <!-- <li>
             <router-link class="bag"  to="/cart"><i class="fas fa-shopping-bag"></i></router-link>
           </li> -->
