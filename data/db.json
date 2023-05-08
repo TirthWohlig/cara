@@ -1574,5 +1574,156 @@
       "volume": "500",
       "from": "Cara"
     }
+  ],
+    "girls": [
+    {
+      "id": 1,
+      "title": "Graphic Print Crew-Neck T-shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220114/XgG7/61e1900cf997dd6623220626/-473Wx593H-441133664-darkblue-MODEL3.jpg",
+      "price": "90",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 2,
+      "title": "Tom & Jerry Print Slim Fit Round-Neck T-Shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230323/c3Qi/641c2ac0711cf97ba7ea8d87/-473Wx593H-443010214-white-MODEL3.jpg",
+      "price": "212",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 3,
+      "title": "Striped T-shirt with Waist Tie-Up",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211223/7R1a/61c48ff2aeb269011018fa4b/-473Wx593H-441133762-white-MODEL.jpg",
+      "price": "90",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 4,
+      "title": "Sequin Embellished T-shirt with Sling Bag",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220906/UuDt/63175d37aeb269dbb3747d16/-473Wx593H-441144624-ltpurple-MODEL.jpg",
+      "price": "288",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 5,
+      "title": "Schiffli Embroidered Round-Neck T-Shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220914/dQgu/6321ea32f997dd1f8dff8f21/-473Wx593H-441144640-yellow-MODEL3.jpg",
+      "price": "240",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 6,
+      "title": "Floral Print Polo T-shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220601/Uauu/6296e62df997dd03e255a80d/-473Wx593H-441142227-ltpink-MODEL3.jpg",
+      "price": "216",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 7,
+      "title": "Ruffle Top with Pom-Poms",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220210/jeNe/62052881aeb26921af926291/-473Wx593H-441132701-peach-MODEL3.jpg",
+      "price": "120",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 8,
+      "title": "Ruched Polo T-shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220601/zA5e/62975bd0aeb26921af04f09c/-473Wx593H-441142228-yellow-MODEL.jpg",
+      "price": "216",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 9,
+      "title": "Floral Print Round-Neck T-shirt with Shrug",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220602/ZcnZ/6297c121aeb26921af05916c/-473Wx593H-441140321-white-MODEL4.jpg",
+      "price": "288",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 10,
+      "title": "Typographic Print Round-Neck Top with Ruffled Hemline",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210809/x2dR/611146a97cdb8cb824ef5c5c/-473Wx593H-441118830-yellow-MODEL.jpg",
+      "price": "105",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 11,
+      "title": "Arch Logo Round-Neck T-Shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221010/bvda/634443e0aeb269659c355f09/-473Wx593H-441538205-pink-MODEL.jpg",
+      "price": "650",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 12,
+      "title": "Floral Print Round-Neck T-shirt",
+      "description": "This set features white chanderi silk sherwani, pajama and a matching dupatta with full coverage thread work and embroidered floral motifs.",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220617/WxwH/62ac9257f997dd03e28d600c/-473Wx593H-441140317-yellow-MODEL4.jpg",
+      "price": "1288",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 13,
+      "title": "Powder blue chanderi silk sherwani set",
+      "description": "This set features powder blue chanderi silk sherwani paired with white pajama and a beige dupatta. It is embellished with thread work and embroidered floral motifs.",
+      "image": "",
+      "price": "125,000",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 14,
+      "title": "Beige embroidered sherwani set with dupatta",
+      "description": "This set features beige chanderi silk sherwani with heavy thread work embroidery all over. Paired with a matching embroidered dupatta and white silk pants.",
+      "image": "",
+      "price": "105,000",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 15,
+      "title": "Onion pink embroidered sherwani set",
+      "description": "This set features onion pink chanderi silk sherwani with intricate thread work and embroidered floral motifs. Paired with matching dupatta and white silk pants.",
+      "image": "",
+      "price": "110,500",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    },
+    {
+      "id": 16,
+      "title": "Gold embroidered sherwani set",
+      "description": "This set features gold chanderi silk sherwani with threadwork and embroidered floral motifs. Paired with matching dupatta and white silk pants.",
+      "image": "",
+      "price": "105,000",
+      "rating": "4.9",
+      "volume": "500",
+      "from": "Cara"
+    }
   ]
 }
